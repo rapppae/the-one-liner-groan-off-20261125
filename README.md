@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [The One-Liner Groan-Off](https://make.fun/bounty/u-alfasurya91-the-one-liner-groan-off-5a1febd5).
 
-> I told my plants a joke — they didn't laugh, but they're growing on me.
+> I told my plants a joke. They didn't laugh, but they're really growing on me.
 
 ## Run
 

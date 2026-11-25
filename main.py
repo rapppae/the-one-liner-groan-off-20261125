@@ -1,12 +1,12 @@
 """Entry for make.fun bounty "The One-Liner Groan-Off".
 
-Entry text (draft v1): one original dad joke, one line.
+Entry text (revised v2): one original dad joke, one line.
 Limit: 1 to 140 characters. No trailing newline is written.
 """
 
 import os
 
-ENTRY = "I told my plants a joke — they didn't laugh, but they're growing on me."
+ENTRY = "I told my plants a joke. They didn't laugh, but they're really growing on me."
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")
